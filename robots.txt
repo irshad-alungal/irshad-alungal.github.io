@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://irshad-alungal.github.io/sitemap.xml
